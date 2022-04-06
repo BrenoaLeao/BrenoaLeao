@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrenoaLeao
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning information of tecnology
-- 💞️ I’m looking to collaborate on ...
   - 📫 Can you find me 5531985507317
 
 <!---
